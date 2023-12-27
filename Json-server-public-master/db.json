@@ -1,0 +1,307 @@
+{
+  "users": [
+    {
+      "id": "0f12e822-b46d-4b22-b3fa-58a5308e701f",
+      "username": "Vanh",
+      "password": "123",
+      "full_name": "Hoàng Thanh Hương",
+      "email": "YnSn11@gmail.com",
+      "phone_number": "028 2812 7622"
+    },
+    {
+      "id": "2688be0b-f395-4563-873e-4ca12bcbc3cf",
+      "username": "GiaCần41",
+      "password": "vPodthxmA4il9ld",
+      "full_name": "Phùng Phú Hiệp",
+      "email": "HuynTrn_Lm@yahoo.com",
+      "phone_number": "024 6107 5147"
+    },
+    {
+      "id": "bc342f3a-044d-4b43-ae67-4718a0402b2e",
+      "username": "NgọcTrụ.Vương46",
+      "password": "wlRPbpdfsaPBojQ",
+      "full_name": "Phạm Thành Tín",
+      "email": "ThnhThin_Phan99@hotmail.com",
+      "phone_number": "0207 9238 5743"
+    },
+    {
+      "id": "246e90fe-22c2-4a08-a0a3-7452ac6a9f81",
+      "username": "PhươngPhương_Đoàn",
+      "password": "CalxyTqGiDcg4Sl",
+      "full_name": "Đào Nguyễn Hải An",
+      "email": "DimLin9@hotmail.com",
+      "phone_number": "027 5221 3399"
+    },
+    {
+      "id": "99c885fb-e021-47da-8019-0300022aaf95",
+      "username": "KimVượng.Đỗ",
+      "password": "Bo2gRR9fD35rvyM",
+      "full_name": "Hoàng Xuân Nương",
+      "email": "PhngLin.Trng61@gmail.com",
+      "phone_number": "020 0779 6322"
+    },
+    {
+      "username": "Thang",
+      "password": "123",
+      "full_name": "Nguyễn Khắc Thắng",
+      "phonenumber": "097 632 1558",
+      "email": "khacthang132@gmail.com",
+      "createdAt": 1699671815050,
+      "updatedAt": 1699671815050,
+      "id": "q7sWh10"
+    },
+    {
+      "username": "NamAnh",
+      "password": "321",
+      "full_name": "Nguyễn Nam Anh",
+      "phonenumber": "0978546321",
+      "email": "NguyeNamAnh132@gmail.com",
+      "createdAt": 1699680121520,
+      "updatedAt": 1699680121520,
+      "id": "n8tJ7NB"
+    }
+  ],
+  "products": [
+    {
+      "product_id": "369c8533-7d0b-4b48-b8bb-c61eebaee4f0",
+      "name": "Giày boots cổ cao Gabine Leather-Nhiều màu",
+      "price": "4500000",
+      "description": "Bổ sung sự ấm áp và phong cách cho bộ sưu tập mùa đông của bạn với đôi boots Gabine phiên bản sọc caro độc đáo. Sự sáng tạo trong việc kết hợp chất liệu jacquard kẻ ô hai tông màu tương phản đã mang đến một định nghĩa mới về thời trang hiện đại.",
+      "image_url": "https://www.charleskeith.vn/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-vn-products/default/dw86175def/images/hi-res/2023-L7-SL1-91900010-24-3.jpg?sw=1152&sh=1536",
+      "category_id": "4257f289-2365-4a29-a8be-a4f04dfc518a"
+    },
+    {
+      "product_id": "635fe814-bc82-4e4b-9f55-1103e478dbb7",
+      "name": "Đầm xòe hoa đỏ cổ tròn tay bí",
+      "price": "550000",
+      "description": "Một thiết kế ngọt ngào, tươi xinh trên nền chất liệu tơ ánh. Họa tiết hoa nhí giúp nàng có một diện mạo mới tràn đầy sức sống, yêu đời hơn mỗi ngày!",
+      "image_url": "https://guco.vn/UploadImages/Data/News/7692/5e.jpg?scale.width=56",
+      "category_id": "99a6cefe-ac75-42db-8162-2ca0ae628654"
+    },
+    {
+      "product_id": "6d7abe9d-dac7-4f21-89b5-9875101f1030",
+      "name": "Quần Ống Suông Vải Waffle",
+      "price": "400000",
+      "description": "Vải siêu co giãn với khả năng co giãn mọi hướng vượt trội. Vải waffle bên ngoài với lớp lót êm ái và thoải mái. Sự pha trộn giữa cotton-rayon mang lại cảm giác mềm mại và tự nhiên.",
+      "image_url": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/455424/item/vngoods_34_455424.jpg?width=750",
+      "category_id": "8ff7c7a0-202c-4dbb-8dad-874eec13d4ea"
+    },
+    {
+      "product_id": "e76cd452-19b7-4309-a5b0-881cbebd78da",
+      "name": "Giày boots cổ cao Cove Platform - Đen",
+      "price": "3090000",
+      "description": "Nổi bật với thiết kế kiểu dáng rộng và những đường nét uốn cong mềm mại của đế cao su, đôi boots cổ cao Cove sẽ tạo nên sự độc đáo và cuốn hút cho trang phục của bạn. Với sắc đen sang trọng, đôi boots phù hợp để bạn diện ở bất kỳ sự kiện nào.",
+      "image_url": "https://www.charleskeith.vn/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-vn-products/default/dwc2bf99a7/images/hi-res/2023-L7-CK1-90580184-01-3.jpg?sw=1152&sh=1536",
+      "category_id": "4257f289-2365-4a29-a8be-a4f04dfc518a"
+    },
+    {
+      "product_id": "110b9bbb-675f-47f9-a7b3-35ab1c5d2754",
+      "name": "Đầm Xòe tay bèo thêu hoa eo - Xanh",
+      "price": "503000",
+      "description": "Siêu phẩm với dáng đầm xòe dài, phần eo được thiết kế dạng thắt eo bản to và thêu hoa nổi. Chất liệu tơ sóng mềm mại, uyển chuyến. Tạo sự thoải mái tối ưu.",
+      "image_url": "https://guco.vn/UploadImages/Data/News/6628/12d.jpg?scale.width=56",
+      "category_id": "99a6cefe-ac75-42db-8162-2ca0ae628654"
+    },
+    {
+      "product_id": "792933e6-fead-4d33-9931-08c7de428aaa",
+      "name": "Đầm xòe cổ sen họa tiết kèm Belt",
+      "price": "554000",
+      "description": "- Chất liệu tằm trượt, may 2 lớp, có túi",
+      "image_url": "https://guco.vn/UploadImages/Data/News/6606/7c.jpg?scale.width=56",
+      "category_id": "99a6cefe-ac75-42db-8162-2ca0ae628654"
+    },
+    {
+      "product_id": "462ceb7c-8724-4a81-a43b-0a0f49e679f2",
+      "name": "Áo kiểu công sở vải tơ dáng",
+      "price": "885000",
+      "description": "Phong cách trẻ trung hiện đại dễ dàng mix với nhiều trang phục khác nhau như chân váy, quần... chắc chắn sẽ không khiến nàng mất đi sự ấn tượng nơi công sở hay lúc đi chơi, dạo phố.",
+      "image_url": "https://product.hstatic.net/1000392326/product/bas92946_-_858k_bqn92946_-_798k_2__5666763227d64e51a3d62746a487fc8d_master.jpg",
+      "category_id": "daf8c1fa-671a-4a5d-97d0-61397126e722"
+    },
+    {
+      "product_id": "7a885894-6c3e-424f-ad7c-a22dad720f43",
+      "name": "Tất ẩn nữ noshow",
+      "price": "45000",
+      "description": "SKU H16SN17159",
+      "image_url": "https://onoff.vn/media/catalog/product/cache/c3ff36be31e01d4dc33bdf50912dc8eb/H16SN17159-SA02.jpg",
+      "category_id": "c63ccd32-899e-4459-ab5b-3dba7f202d0e"
+    },
+    {
+      "product_id": "e5688c24-f58a-4395-bf2e-9081fec435d7",
+      "name": "Quần Ống Suông Dáng Rộng Túi Hộp",
+      "price": "784000",
+      "description": "Được làm từ 100% cotton,kiểu dáng rộng hợp xu hướng.Lưng thun co giãn thoải mái.",
+      "image_url": "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/461643/item/vngoods_08_461643.jpg?width=750",
+      "category_id": "8ff7c7a0-202c-4dbb-8dad-874eec13d4ea"
+    },
+    {
+      "product_id": "007bd165-34ea-41b7-a3a8-72530e0a1c3c",
+      "name": "Áo kiểu công sở vải lụa dáng suông cổ đức xẻ",
+      "price": "640000",
+      "description": "Mẫu áo là thiết kế độc quyền của Pantio. mang đến cho nàng sự chỉn chu chuyên nghịệp mà không mất đi nét nữ tính, thời thượng. Làm nàng nổi bật nét đẹp, ấn tượng giữa đám đông.",
+      "image_url": "https://product.hstatic.net/1000392326/product/fas53574_-_1098k_bqd72892_-_1088k_2__b12fbc632324474c8e1991461a21fff3_1024x1024.jpg",
+      "category_id": "daf8c1fa-671a-4a5d-97d0-61397126e722"
+    },
+    {
+      "product_id": "a58fef6e-9d45-4412-b3d2-2bb5e6dabdea",
+      "name": "Giày boots cao gót Devon Metallic Blade",
+      "price": "850000",
+      "description": "Nếu bạn đang tìm kiếm một đôi boots đa nhiệm vừa dễ dàng mang đến môi trường công sở, vừa linh hoạt diện đến mọi sự kiện, thì đôi boots Devon Metallic Striped chắc chắn sẽ là sự lựa chọn hoàn hảo dành cho bạn",
+      "image_url": "https://www.charleskeith.vn/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-vn-products/default/dw5fe75e61/images/hi-res/2023-L7-CK1-90360385-66-1.jpg?sw=1152&sh=1536",
+      "category_id": "4257f289-2365-4a29-a8be-a4f04dfc518a"
+    },
+    {
+      "product_id": "ea14b3e8-53f1-4ee2-b196-99ffd95ccbec",
+      "name": " Áo kiểu công sở vải ren lưới dáng suông cổ tròn",
+      "price": "553000",
+      "description": "Mẫu áo là thiết kế độc quyền của Pantio. mang đến cho nàng sự chỉn chu chuyên nghịệp mà không mất đi nét nữ tính, thời thượng. Làm nàng nổi bật nét đẹp, ấn tượng giữa đám đông.",
+      "image_url": "https://product.hstatic.net/1000392326/product/bak72888-1198k__fjn3676-698k__4__f14f8a0237a84fa7831fa658535dc886_master.jpg",
+      "category_id": "daf8c1fa-671a-4a5d-97d0-61397126e722"
+    },
+    {
+      "product_id": "220859d6-605a-457e-af66-096b589e6c96",
+      "name": "Đầm xòe cổ thêu tay lở 4300 - Đen",
+      "price": "353000",
+      "description": "- Chất liệu tuyết Hàn, có túi.",
+      "image_url": "https://guco.vn/UploadImages/Data/News/6600/7c.jpg?scale.width=56",
+      "category_id": "99a6cefe-ac75-42db-8162-2ca0ae628654"
+    },
+    {
+      "product_id": "8e53d44a-9431-46aa-82a1-178388c6aba5",
+      "name": "Giày boots cổ cao Gabine Leather-Đen",
+      "price": "4450000",
+      "description": "Hãy tự tin tỏa sáng tại bất kỳ sự kiện nào với đôi boots cổ cao Gabine sang trọng. Được làm từ chất liệu da thật có phom dáng vừa vặn, đôi boots với gót nhọn cao 8cm này đã tạo nên sự tương phản đầy ấn tượng giữa sự thoải mái và nghệ thuật. ",
+      "image_url": "https://www.charleskeith.vn/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-vn-products/default/dw709ed3ba/images/hi-res/2023-L7-SL1-91900010-01-3.jpg?sw=1152&sh=1536",
+      "category_id": "4257f289-2365-4a29-a8be-a4f04dfc518a"
+    },
+    {
+      "product_id": "a574b8d6-e738-4661-a2fb-5ede3cdc5f13",
+      "name": "Áo kiểu công sở vải voan dáng suông cổ tròn",
+      "price": "558000",
+      "description": "Mẫu áo là thiết kế độc quyền của Pantio. mang đến cho nàng sự chỉn chu chuyên nghịệp mà không mất đi nét nữ tính, thời thượng. Làm nàng nổi bật nét đẹp, ấn tượng giữa đám đông.",
+      "image_url": "https://product.hstatic.net/1000392326/product/fas73573_-_798k_fjd51057_-_768k__1__a8326c31d68047d3bda1be6dcc134c50_master.jpg",
+      "category_id": "daf8c1fa-671a-4a5d-97d0-61397126e722"
+    },
+    {
+      "product_id": "940118ba-2e9a-4569-9af0-28ca9871a628",
+      "name": "Tất nữ không cổ cotton extra Soft",
+      "price": "45000",
+      "description": "SKU 16AP23A145",
+      "image_url": "https://onoff.vn/media/catalog/product/cache/697fd70fe59708f2ecddac7085cd721b/16AP23A145-SW001.jpg",
+      "category_id": "c63ccd32-899e-4459-ab5b-3dba7f202d0e"
+    },
+    {
+      "product_id": "d481e17a-4bb5-4ba9-b6f0-2f0fc486ff5a",
+      "name": "Đầm xòe hoa nhí vàng tay bo",
+      "price": "520000",
+      "description": "Chất liệu tơ ánh, may 2 lớp, có túi 2 bên.",
+      "image_url": "https://guco.vn/UploadImages/Data/News/6596/4b.jpg?scale.width=56",
+      "category_id": "99a6cefe-ac75-42db-8162-2ca0ae628654"
+    },
+    {
+      "product_id": "c9448124-76fd-452c-9d0c-728b9cba1456",
+      "name": "Áo sơ mi dạo phố vải da dáng suông cổ đức",
+      "price": "586000",
+      "description": "Phong cách trẻ trung hiện đại dễ dàng mix với nhiều trang phục khác nhau như chân váy, quần... chắc chắn sẽ không khiến nàng mất đi sự ấn tượng nơi công sở hay lúc đi chơi, dạo phố. ",
+      "image_url": "https://product.hstatic.net/1000392326/product/fas73565_-_838k__fqn7342_-_868k_a4a4f1622f384a26b7ef7db0da90b985_master.jpg",
+      "category_id": "daf8c1fa-671a-4a5d-97d0-61397126e722"
+    },
+    {
+      "product_id": "928f3265-fe67-4d28-ae02-7222cfcc7f48",
+      "name": "Tất nữ cổ ngắn Cotton Breathable",
+      "price": "45000",
+      "description": "SKU 16AE23A030",
+      "image_url": "https://onoff.vn/media/catalog/product/cache/ecd9e5267dd6c36af89d5c309a4716fc/16AE23A030.jpg",
+      "category_id": "c63ccd32-899e-4459-ab5b-3dba7f202d0e"
+    },
+    {
+      "product_id": "852ea811-5ff9-46b6-9088-19ca59227d71",
+      "name": "Tất cổ trung Unisex Cotton kháng khuẩn",
+      "price": "59000",
+      "description": "SKU 18AR22C001",
+      "image_url": "https://onoff.vn/media/catalog/product/cache/ecd9e5267dd6c36af89d5c309a4716fc/18AR22C001.jpg",
+      "category_id": "c63ccd32-899e-4459-ab5b-3dba7f202d0e"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": "daf8c1fa-671a-4a5d-97d0-61397126e722",
+      "name": "T-shirt"
+    },
+    {
+      "category_id": "4257f289-2365-4a29-a8be-a4f04dfc518a",
+      "name": "Shoes"
+    },
+    {
+      "category_id": "99a6cefe-ac75-42db-8162-2ca0ae628654",
+      "name": "Dress"
+    },
+    {
+      "category_id": "8ff7c7a0-202c-4dbb-8dad-874eec13d4ea",
+      "name": "Pants"
+    },
+    {
+      "category_id": "c63ccd32-899e-4459-ab5b-3dba7f202d0e",
+      "name": "Socks"
+    }
+  ],
+  "orders": [
+    {
+      "order_id": "5e13447d-3004-49f6-8b48-7012918f9d6b",
+      "order_date": "2023-07-13T20:28:30.862Z",
+      "total_price": "581.00"
+    },
+    {
+      "order_id": "dde8bed6-ec89-42cf-8a69-66d0208e1c5c",
+      "order_date": "2023-06-28T20:02:41.085Z",
+      "total_price": "26.00"
+    },
+    {
+      "order_id": "3fe418aa-0273-4a33-bf8c-e67818d8e77a",
+      "order_date": "2022-12-25T07:26:27.671Z",
+      "total_price": "698.00"
+    },
+    {
+      "order_id": "f7e25b5d-bd98-4b89-abd8-74a2b8097969",
+      "order_date": "2023-07-05T19:46:44.011Z",
+      "total_price": "455.00"
+    },
+    {
+      "order_id": "9d8d9abf-187a-4e24-968d-d14a1683f3e7",
+      "order_date": "2023-04-05T17:19:55.866Z",
+      "total_price": "332.00"
+    }
+  ],
+  "orderDetails": [
+    {
+      "order_detail_id": "da41d0df-babd-4d27-bf69-f2de906d2182",
+      "order_id": "9d8d9abf-187a-4e24-968d-d14a1683f3e7",
+      "product_id": "a574b8d6-e738-4661-a2fb-5ede3cdc5f13",
+      "quantity": 10
+    },
+    {
+      "order_detail_id": "684be1c3-9e39-4f19-a007-45452a06c115",
+      "order_id": "f7e25b5d-bd98-4b89-abd8-74a2b8097969",
+      "product_id": "d481e17a-4bb5-4ba9-b6f0-2f0fc486ff5a",
+      "quantity": 4
+    },
+    {
+      "order_detail_id": "0bf5a377-e712-461e-ad26-a66cf6b08c1c",
+      "order_id": "9d8d9abf-187a-4e24-968d-d14a1683f3e7",
+      "product_id": "d481e17a-4bb5-4ba9-b6f0-2f0fc486ff5a",
+      "quantity": 4
+    },
+    {
+      "order_detail_id": "998ca7ff-2510-44c1-99e0-1f6d8b92ae12",
+      "order_id": "3fe418aa-0273-4a33-bf8c-e67818d8e77a",
+      "product_id": "220859d6-605a-457e-af66-096b589e6c96",
+      "quantity": 0
+    },
+    {
+      "order_detail_id": "5c46a868-b926-4aba-bf6b-d62cafa240cc",
+      "order_id": "5e13447d-3004-49f6-8b48-7012918f9d6b",
+      "product_id": "852ea811-5ff9-46b6-9088-19ca59227d71",
+      "quantity": 5
+    }
+  ]
+}
